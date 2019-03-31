@@ -9,7 +9,7 @@ spring:
     location: classpath:static/banner.txt
     
 server:
-  port: 8888
+  port: 8080
   servlet:
     context-path: /    
     
