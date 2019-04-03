@@ -21,7 +21,7 @@ management:
 
 scheduler:
   run1:
-    fixRate: 1000
+    fixRate: 3000
     cron: "10 * * * * *"
   run2:
     fixRate: 5000
