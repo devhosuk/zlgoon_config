@@ -15,10 +15,10 @@ server:
 
 scheduler:
   run1:
-    fixRate: 1000
+    fixRate: 5000
     cron: "10 * * * * *"
   run2:
-    fixRate: 2000
+    fixRate: 4000
     cron: "10 * * * * *"
   run3:
     fixRate: 3000
