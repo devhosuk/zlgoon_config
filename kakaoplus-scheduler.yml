@@ -24,7 +24,7 @@ scheduler:
     fixRate: 1000
     cron: "10 * * * * *"
   run2:
-    fixRate: 1000
+    fixRate: 5000
     cron: "10 * * * * *"
   run3:
     fixRate: 3000
