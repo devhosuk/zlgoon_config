@@ -4,7 +4,6 @@
 
 spring:
   profiles:
-    include: test
     active: local
   banner:
     location: classpath:static/banner.txt
